@@ -1,0 +1,235 @@
+.center-text{
+    position: absolute;
+    top:25%;
+    left:25%;
+    color: white;
+}
+.btn1{
+    background-color: gold;
+    border-radius: 5px;
+    padding: 6px 15px;
+}
+.btn1:hover{
+    background-color: purple;
+    color: white;
+}
+
+.navbar-brand{
+    margin-left: 25%;
+}
+ul.navbar-nav{
+    margin-left: 25%;
+}
+.listitem{
+    color: white;
+}
+.container h3{
+    margin-left: 28%;
+}
+.container{
+    display: inline-flex;
+}
+.container img{
+    margin-left: 200px;
+}
+.container1{
+    display: inline-flex;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+.conatiner-inside{
+    margin-right: 150px;
+}
+.projects{
+    display: inline-flex;
+}
+
+.card1{
+    background-color: lightgray;
+}
+.card2{
+    background-color: grey ;
+}
+.card2:hover{
+    background-color: gold;
+}
+.card1:hover{
+    background-color: gold;
+}
+.card-title{
+    margin-left: 12px;
+}
+.card-text{
+    margin-left: 12px;
+}
+.new{
+    margin-left: 12px;
+}
+.container2{
+    display: inline-flex;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 35px;
+}
+.conatiner-inside1{
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.vl{
+    border-left: 2px solid lightgray;
+  height: 265px;
+}
+.friends{
+    display: inline-flex;
+    
+}
+.friendsdetails{
+    margin-top: 20px;
+    margin-left: 265px;
+}
+.friends1{
+    display: inline-flex;
+    
+}
+.friendsdetails1{
+    margin-top: 20px;
+    margin-left: 265px;
+}
+.nothing{
+    margin-bottom: 80px;
+}
+.search-inner{
+    position: absolute;
+    top: 695%;
+    left:40%
+}
+.search-inner1{
+    position: absolute;
+    top: 708%;
+    left:54%
+}
+.btn6{
+    
+    border-radius: 5px;
+    padding: 6px 35px;
+    margin-left: 20px;
+}
+
+.blog{
+    display: inline-flex;
+    margin-top: 10px;
+    margin-bottom: 80px;
+    
+}
+.blog-inside{
+    margin-left: 120px;
+}
+.blog-inside h3, h4, p{
+    margin-left: 20px;
+}
+.mapimg{
+    display: inline-flex;
+    background-color: rgb(236, 206, 73);
+    margin-bottom: 100px;
+}
+.map-inner{
+    margin-top: 30px;
+    margin-left: 90px;
+    margin-right: 215px;
+    padding-right:250px; 
+}
+.btn8{
+    background-color: gold;
+    border-radius: 5px;
+    padding: 6px 80px;
+    margin-left: 22px;
+    margin-top: 25px;
+}
+.btn8:hover{
+    background-color: purple;
+    color: white;
+    
+}
+.btn6{
+    background-color: gold;
+    border-radius: 5px;
+    padding: 6px 40px;
+}
+.btn6:hover{
+    background-color: purple;
+}
+.indet{
+    margin-top: 20px; 
+}
+.foot{
+    display: inline-flex;
+    margin-bottom: 50px;
+}
+.common{
+    margin-left: 250px;
+}
+.foot-title{
+    margin-left: 20px;
+}
+.nothing img:hover{
+    -moz-box-shadow: 10px 10px 20px #ccc;
+      -webkit-box-shadow: 10px 10px 20px #ccc;
+      box-shadow: 10px 10px 20px #ccc;
+}
+.h{
+    background-color: rebeccapurple;
+}
+.v{
+  
+    margin-left: 25% ;
+    margin-bottom: 30px;
+  }
+  .member_section_data{
+
+    padding: 0 25%;
+    padding-top: 3%;
+  }
+  .member_section_card{
+    border: 0;
+  padding: 6%;
+  }
+  .member_section_div{
+  margin:0 auto;
+  background-color:#72147e;
+  height: 140px;
+  width: 140px;
+  border-radius: 100%;
+  }
+  
+  .members_secton_image{
+    height: 140px;
+    width: 140px;
+  position: relative;
+  top:-26px;
+    border-radius: 100%;
+  }
+  .members_section_icon{
+    height: 25px;
+    padding: 2%;
+    width: auto;
+    position: relative;
+    top: 60px;
+  
+  }
+  .members_secton_image:hover{
+  
+    opacity: 0.4;
+  }
+  .member_section_div:hover .members_section_icon{
+    display: inline;
+    z-index: 999;
+  }
+  .members_section_heading{
+    font-size: 17px;
+    font-weight: 800;
+    font-family: Montserrat;
+  }
